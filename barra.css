@@ -1,0 +1,183 @@
+.container {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#quadrado {
+    width: 24px;
+    height: 194px;
+    background-color: #9a30cf;
+    border: 2px solid #000000;
+    position: absolute;
+    margin-right: 16%;
+    margin-top: 37.3%;
+}
+
+#quadrado2 {
+    width: 24px;
+    height: 121px;
+    background-color: #9a30cf;
+    border: 2px solid #000000;
+    position: absolute;
+    margin-top: 42%;
+    margin-right: 3%;
+}
+
+#quadrado3 {
+    width: 24px;
+    height: 80px;
+    background-color: #9a30cf;
+    border: 2px solid #000000;
+    position: absolute;
+    margin-top: 44.7%;
+    margin-left: 10%;
+}
+
+#quadrado4 {
+    width: 24px;
+    height: 123px;
+    background-color: #9a30cf5c;
+    border: 2px solid #000000;
+    position: absolute;
+    margin-right: 12.5%;
+    margin-top: 42%;
+}
+
+#quadrado5 {
+    width: 24px;
+    height: 39px;
+    background-color: #9a30cf5c;
+    border: 2px solid #000000;
+    position: absolute;
+    margin-top: 47.5%;
+    margin-left: 0.25%;
+}
+
+#quadrado6 {
+    width: 24px;
+    height: 194px;
+    background-color: #9a30cf5c;
+    border: 2px solid #000000;
+    position: absolute;
+    margin-left: 13.5%;
+    margin-top: 37.2%;
+}
+
+#quadrado7 {
+    width: 40px;
+    height: 40px;
+    background-color: #9a30cf5c;
+    border: 2px solid #000000;
+    position: absolute;
+    margin-right: 20%;
+    margin-top: 60%;
+}
+
+
+#quadrado8 {
+    width: 40px;
+    height: 40px;
+    background-color: #9a30cf;
+    border: 2px solid #000000;
+    position: absolute;
+    margin-top: 70%;
+    margin-right: 20%;
+}
+
+
+#linha {
+    width: 228px;
+    height: 0px;
+    border: 2px solid #000000;
+    position: absolute;
+    margin-top: 35%;
+    margin-right: 23%;
+    transform: rotate(90deg);
+
+}
+
+
+#linha2 {
+    width: 350px;
+    height: 0px;
+    border: 2px solid rgb(0, 0, 0);
+    position: absolute;
+    margin-top: 50%;
+    transform: rotate(180deg);
+
+}
+
+
+#linha3 {
+    width: 20px;
+    height: 0px;
+    border: 2px solid rgb(0, 0, 0);
+    position: absolute;
+    margin-top: 20.1%;
+    margin-right: 24.5%;
+    transform: rotate(180deg);
+
+}
+
+
+
+#linha4 {
+    width: 20px;
+    height: 0px;
+    border: 2px solid rgb(0, 0, 0);
+    position: absolute;
+    margin-top: 36%;
+    margin-right: 24.5%;
+    transform: rotate(180deg);
+
+}
+
+#p {
+
+    margin-top: 71%;
+    margin-right: 5%;
+    position: absolute;
+}
+
+#p2 {
+
+    margin-top: 61%;
+    margin-right: 5%;
+    position: absolute;
+}
+
+#p3 {
+    position: absolute;
+    margin-right: 29.5%;
+    margin-top: 21%;
+}
+
+#p4 {
+
+    position: absolute;
+    margin-right: 30%;
+    margin-top: 37%;
+}
+
+
+#p5 {
+
+    margin-top: 53%;
+    position: absolute;
+    margin-right: 14.5%;
+}
+
+#p6 {
+    position: absolute;
+    margin-top: 53%;
+    margin-right: 1%;
+}
+
+#p7 {
+
+    position: absolute;
+    margin-top: 53%;
+    margin-left: 12%;
+}
